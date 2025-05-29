@@ -25,5 +25,5 @@ A front-end clone of the Nykaa Fashion homepage built using HTML and CSS only. T
 
 ## 👩‍💻 Author
 
-- [Aakriti](https://github.com/aakritigupta19)
+- [Aakriti Gupta](https://github.com/aakritigupta19)
   
