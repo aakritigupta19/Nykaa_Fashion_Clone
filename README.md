@@ -20,3 +20,10 @@ A front-end clone of the Nykaa Fashion homepage built using HTML and CSS only. T
 - Visual Studio Code
 - Font Awesome
 - [MDN Web Docs](https://developer.mozilla.org/) for references
+  
+---
+
+## 👩‍💻 Author
+
+- [Aakriti](https://github.com/aakritigupta19)
+  
